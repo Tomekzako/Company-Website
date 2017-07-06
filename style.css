@@ -31,3 +31,20 @@ nav li:hover {
     padding: 10px;
     letter-spacing: 2.5px;
 }
+
+.container {
+    max-width: 1000px;
+}
+
+.sectionImg {
+    height: 100px;
+}
+
+.col-md-4 {
+    text-align: center;
+    color: #fff;
+}
+
+.icons p {
+    font-size: 15px;
+}
